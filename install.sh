@@ -2,7 +2,7 @@
 
 ROOT_PATH=`dirname $0`
 PLUGIN_PATH="$ROOT_PATH/plugin"
-DEPLOY_PATH="/home/sebou/miaou/plugins/mountypedia"
+DEPLOY_PATH="../miaou/plugins/mountypedia"
 
 # installing the plugin in the plugins directory of the miaou installation
 rm -rf $DEPLOY_PATH
